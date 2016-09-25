@@ -10,6 +10,9 @@
 
 ## Gulp
 
+## 前端工程化
+- [gulp+webpack整合](http://www.jianshu.com/p/9724c47b406c)
+
 ## ECMAScript2015
 - [Generators and Channels in Javascript](https://zhuanlan.zhihu.com/p/22533722)
 
