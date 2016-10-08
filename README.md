@@ -4,6 +4,7 @@
 
 ## Vue
 - [Vue性能优化](https://github.com/Coffcer/Blog/issues/3)
+- [记录Vue升级2.0遇到的坑](https://github.com/tofuxb/blog/issues/5)
 
 ## Webpack
 - [Webpack入门](https://github.com/tofuxb/blog/issues/4)
