@@ -18,7 +18,7 @@
 ## ECMAScript2015
 - [Generators and Channels in Javascript](https://zhuanlan.zhihu.com/p/22533722)
 
-## 前端基础知识
+## 前端大杂烩
 - [浏览器缓存原理](https://github.com/tofuxb/blog/issues/1)
 - [DNS原理](https://github.com/tofuxb/blog/issues/2)
 - [CSS动画性能](http://blogs.adobe.com/webplatform/2014/03/18/css-animations-and-transitions-performance/)
@@ -26,3 +26,4 @@
 - [并发模型与Event Loop](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/EventLoop)
 - [Git常用命令](http://blog.csdn.net/sunboy_2050/article/details/7529022)
 - [WEB性能权威指南](https://github.com/tofuxb/blog/blob/master/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.md)
+- [使用PhantomJS解决动态网站的SEO方案](http://www.jianshu.com/p/2bbbc2fcd16d)
