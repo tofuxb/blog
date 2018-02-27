@@ -28,3 +28,4 @@
 - [WEB性能权威指南](https://github.com/tofuxb/blog/blob/master/Web%E6%80%A7%E8%83%BD%E6%9D%83%E5%A8%81%E6%8C%87%E5%8D%97.md)
 - [使用PhantomJS解决动态网站的SEO方案](http://www.jianshu.com/p/2bbbc2fcd16d)
 - [浅谈debounce和throttle](https://github.com/tofuxb/blog/issues/7)
+- [关于Object.defineProperty()](https://github.com/tofuxb/blog/issues/8)
