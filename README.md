@@ -9,6 +9,7 @@
 
 ## Webpack
 - [Webpack入门](https://github.com/tofuxb/blog/issues/4)
+- [Webpack 4.0 来了](https://www.jianshu.com/p/3a13f1b37300) 
 
 ## Gulp
 
