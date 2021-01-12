@@ -30,3 +30,4 @@
 - [使用PhantomJS解决动态网站的SEO方案](http://www.jianshu.com/p/2bbbc2fcd16d)
 - [浅谈debounce和throttle](https://github.com/tofuxb/blog/issues/7)
 - [关于Object.defineProperty()](https://github.com/tofuxb/blog/issues/8)
+- [TypeScript 中的依赖注入（译）](https://www.jianshu.com/p/3c2390b62d60)
